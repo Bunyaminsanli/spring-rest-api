@@ -1,4 +1,4 @@
-package com.bsanli.spring_rest_api;
+package com.bsanli.springrestapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

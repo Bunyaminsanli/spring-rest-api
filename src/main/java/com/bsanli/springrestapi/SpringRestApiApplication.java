@@ -1,4 +1,4 @@
-package com.bsanli.spring_rest_api;
+package com.bsanli.springrestapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
